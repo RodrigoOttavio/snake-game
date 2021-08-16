@@ -3,5 +3,11 @@ Esse projeto foi realizado através dos ensinamentos da ultima etapa do bootcamp
 
 Para jogar clique no link abaixo:  :snake:
 
+https://rodrigoottavio.github.io/snake-game/
+
+Sandbox:
+
 https://codesandbox.io/s/snake-game-n76rm
+
+
 
